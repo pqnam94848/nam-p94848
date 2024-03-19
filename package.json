@@ -1,60 +1,31 @@
 {
   "name": "nam-p94848",
-  "version": "1.0.7",
+  "version": "1.0.6",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "are-arrays": "^1.0.0",
-    "are-objects": "^1.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pqnam94848/nam-p94848.git"
   },
-  "homepage": "https://github.com/pqnam94848",
+  "dependencies": {
+    "phucbinh-an": "1.0.3",
+    "@tensorflow/tfjs-core": "1.7.0",
+    "tslib": "^1.11.1",
+    "wrong-viptrade": "1.0.3",
+    "david-toi": "1.0.3",
+    "phucbinh-an": "1.0.3",
+    "minhan-1409": "1.0.3"
+    },
+ "homepage": "https://github.com/pqnam94848/",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
   ],
-  "author": "nam-p94848",
+  "author": "pqnam94848",
   "license": "MIT"
 }
-"dependencies": {
-    "@tensorflow/tfjs-core": "1.7.0",
-    "tslib": "^1.11.1",
-"sum-binhan": "1.0.3"
-"binh-an2015": "1.0.3"
-"minh-anh19": "1.0.3"
-"tong-puyen": "1.0.3"
-"phuon-minh01": "1.0.3"
-"hoa-hong": "1.0.3"
-"nam-p94848:" "1.0.3"
-"phuong-an16": "1.0.3"
-"wrong-viptrade": "1.0.3"
-"david-toi": "1.0.3"
-"phucbinh-an": "1.0.3"
-"minhan-1409": "1.0.3"
-"temper-sip": "1.0.3"
-"maumau-mau": "1.0.3"
-"maimap-1991": "1.0.3"
-"hunganh-vip99": "1.0.3"
-"behatmit-99": "1.0.3"
-"hoadainhan-88": "1.0.3"
-"hoanchaucachcach": "1.0.3"
-"canhdongxanh": "1.0.3"
-"trendingvip": "1.0.3"
-"minhanhkute": "1.0.3"
-"boynhangheo": "1.0.3"
-"ngoinhatrenthaonguyen": "1.0.3"
-"ryangibbsas": "1.0.3"
-"raylyonsas": "1.0.3"
-"lymanpoundsas": "1.0.3"
-"bettybarrigaas": "1.0.3"
-"hilarystatonas": "1.0.3"
-"ngoinhathongminh": "1.0.3"
-"nhathohoigiao": "1.0.3"
